@@ -25,6 +25,7 @@ In the ever-shifting landscape of cybersecurity, I'm a code-wielding knight on a
 
 <!-- BEGIN PROJECT CARDS -->
 <a href="https://github.com/KentrellEdwards/File_Permissions_Linux" target="_blank"><img alt="File Permissions in Linus" title="File Permissions in Linux" width="500" src="https://github.com/KentrellEdwards/File_Permissions_Linux/blob/main/FilePermissionsSS.png" /></a>
+<a href="https://github.com/KentrellEdwards/Wireshark_Capture_Packets" target="_blank"><img alt="Packet Capture" title="Wireshark Capture Packets" width="470" src="https://github.com/KentrellEdwards/Wireshark_Capture_Packets/blob/main/WS_capture.png" /></a>
 
 <!-- END PROJECT CARDS -->
 
