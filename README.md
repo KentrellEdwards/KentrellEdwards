@@ -24,10 +24,10 @@ In the ever-shifting landscape of cybersecurity, I'm a code-wielding knight on a
 ## 🛠️ Lateset Projects
 
 <!-- BEGIN PROJECT CARDS -->
-![App Screenshot](<a href="">< img src="https://i0.wp.com/www.techsolveprac.com/wp-content/uploads/2018/07/Wireshark-beginner-guide.png?fit=1280%2C720&ssl=1" /></a>
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<a href="">< img src="https://i0.wp.com/www.techsolveprac.com/wp-content/uploads/2018/07/Wireshark-beginner-guide.png?fit=1280%2C720&ssl=1" /></a>
+> ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+> ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+> ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 <!-- END PROJECT CARDS -->
 
 
