@@ -24,10 +24,8 @@ In the ever-shifting landscape of cybersecurity, I'm a code-wielding knight on a
 ## 🛠️ Lateset Projects
 
 <!-- BEGIN PROJECT CARDS -->
-<a href="https://github.com/KentrellEdwards/File_Permissions_Linux">< img src="" /></a>
-> ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-> ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-> ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<a href="https://github.com/KentrellEdwards/File_Permissions_Linux" target="_blank"><img alt="File Permissions in Linus" title="File Permissions in Linux" width="500" src="https://github.com/KentrellEdwards/File_Permissions_Linux/blob/main/FilePermissionsSS.png" /></a>
+
 <!-- END PROJECT CARDS -->
 
 
