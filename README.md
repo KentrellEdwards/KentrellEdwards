@@ -27,6 +27,7 @@ In the ever-shifting landscape of cybersecurity, I'm a code-wielding knight on a
 <a href="https://github.com/KentrellEdwards/File_Permissions_Linux" target="_blank"><img alt="File Permissions in Linus" title="File Permissions in Linux" width="500" src="https://github.com/KentrellEdwards/File_Permissions_Linux/blob/main/FilePermissionsSS.png" /></a>
 <a href="https://github.com/KentrellEdwards/Wireshark_Capture_Packets" target="_blank"><img alt="Packet Capture" title="Wireshark Capture Packets" width="500" src="https://github.com/KentrellEdwards/Wireshark_Capture_Packets/blob/main/WS_capture.png" /></a>
 <a href="https://github.com/KentrellEdwards/Microsoft_Defender_Firewall" target="_blank"><img alt="Microsoft Denfender" title="Microsoft Windows Defender and Firewall" width="500" src="https://github.com/KentrellEdwards/Microsoft_Defender_Firewall/blob/main/MWD.png" /></a>
+<a href="https://github.com/KentrellEdwards/Python_Algorithm" target="_blank"><img alt="Pyhton Algorith," title="File Update with Python Algorithm" width="500" src="https://github.com/KentrellEdwards/Python_Algorithm/blob/main/PythonSS.png" /></a>
 
 <!-- END PROJECT CARDS -->
 
