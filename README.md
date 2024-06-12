@@ -16,6 +16,7 @@ In the ever-shifting landscape of cybersecurity, I'm a code-wielding knight on a
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://styles.redditmedia.com/t5_2qi7p/styles/communityIcon_mblaxhth04u01.png" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/wireshark-icon-512x506-zshergic.png" />
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/78-microsoft-512.png" />
 <br />
 
 #
